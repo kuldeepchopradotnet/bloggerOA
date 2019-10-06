@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Bloggerweb.Data\Bloggerweb.Data.csproj" />
+    <ProjectReference Include="..\Bloggerweb.Repo\Bloggerweb.Repo.csproj" />
+  </ItemGroup>
+
+</Project>
